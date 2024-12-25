@@ -1,0 +1,1 @@
+This repository demonstrates a common Elixir coding error involving potential nil value handling when reversing strings.  The `bug.ex` file contains the erroneous code.  The solution is presented in `bugSolution.ex`, illustrating a more robust approach.
